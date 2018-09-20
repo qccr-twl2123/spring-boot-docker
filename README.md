@@ -69,5 +69,6 @@ swarm 是基于 docker 平台实现的集群技术，他可以通过几条简单
 
 **测试地址**
 - [测试网址](http://47.75.85.48:7777/)  
+- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice)
 
 
